@@ -1,0 +1,37 @@
+﻿[
+{
+"servicename": "Plumbing",
+"pricefrom": "100",
+"priceto": "130"
+},
+{
+"servicename": "Carpentary",
+"pricefrom": "50",
+"priceto": "90"
+},
+{
+"servicename": "Cleaning",
+"pricefrom": "80",
+"priceto": "100"
+},
+{
+"servicename": "Aluminun",
+"pricefrom": "60",
+"priceto": "90"
+},
+{
+"servicename": "Furniture Cleaning",
+"pricefrom": "60",
+"priceto": "90"
+},
+{
+"servicename": "Painting",
+"pricefrom": "150",
+"priceto": "180"
+},
+{
+"servicename": "Moving",
+"pricefrom": "60",
+"priceto": "70"
+}
+]
